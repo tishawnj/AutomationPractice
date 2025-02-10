@@ -12,6 +12,7 @@ import org.testng.annotations.Test;
         glue = {"steps"},
         plugin= {"pretty", "html:reports/myreport.html",
                 "rerun:target/rerun.txt",
+                "json:target/cucumber.json",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
         },
 
