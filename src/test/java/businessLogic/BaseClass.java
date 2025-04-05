@@ -15,11 +15,11 @@ import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
 
-import static org.testng.Assert.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class BaseClass {
 
-    private static Logger logger;
+    static Logger logger;
    private static WebDriver driver;
     // public static final String propertyFilePath = "src/test/resources/config.properties";
     public static Properties properties;
@@ -53,7 +53,8 @@ public class BaseClass {
     }
 
     public static Logger getLogger() {
-        logger = LogManager.getLogger(); //Log4j
+       //Log4j
+        logger = LogManager.getLogger();
         return logger;
     }
 
@@ -66,7 +67,7 @@ public class BaseClass {
     //assert equals
     public static void valueisTrue(String expected, String actual)
     {
-        assertEquals(actual, expected);
+        assertEquals(expected, actual);
         BaseClass.getLogger().info("True");
     }
 

@@ -4,6 +4,7 @@ import businessLogic.BaseClass;
 import org.junit.internal.runners.statements.Fail;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -29,12 +30,15 @@ public class HomePage extends BasePage {
     }
 
     //Elements
-    @FindBy(xpath = "//*[@id='post-36']/div/div[2]/div/div[3]/div[1]/div/a")
+    @FindBy(xpath = "//*[@id='post-36']/div/div[2]/div/div[3]/div[1]/div/a") @CacheLookup
     protected WebElement popUpsPage;
 
-    @FindBy(xpath = "//*[@id='post-36']/div/div[2]/div/div[3]/div[2]/div/a")
+    @FindBy(xpath = "//*[@id='post-36']/div/div[2]/div/div[3]/div[2]/div/a") @CacheLookup
     protected WebElement modalsPage;
 
+
+    @FindBy(xpath="(//a[normalize-space()='Form Fields'])[1]") @CacheLookup
+    protected WebElement formFields;
 
     //actions
 
@@ -45,6 +49,9 @@ public class HomePage extends BasePage {
                 break;
             case "modal":
                 BaseClass.searchForElement(modalsPage);
+                break;
+            case "formFields":
+                formFields.click();
                 break;
             default:
                 throw new IllegalArgumentException("Invalid link type");
