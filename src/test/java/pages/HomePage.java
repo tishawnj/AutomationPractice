@@ -43,15 +43,22 @@ public class HomePage extends BasePage {
     //actions
 
     public void clickLink(String link) throws InterruptedException {
+
+        long l = 20L;
+
+
         switch (link){
             case "popup":
-                popUpsPage.click();
+                BaseClass.waitForElement(popUpsPage, l);
+                BaseClass.searchForElement(popUpsPage);
                 break;
             case "modal":
+                BaseClass.waitForElement(modalsPage, l);
                 BaseClass.searchForElement(modalsPage);
                 break;
             case "formFields":
-                formFields.click();
+                BaseClass.waitForElement(formFields, l);
+                BaseClass.searchForElement(formFields);
                 break;
             default:
                 throw new IllegalArgumentException("Invalid link type");
