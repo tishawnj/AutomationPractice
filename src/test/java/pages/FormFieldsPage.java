@@ -67,22 +67,27 @@ public class FormFieldsPage extends BasePage{
         submit.click();
     }
 
-    public void selectDrinks(String drink){
+    public void selectDrinks(String drink) throws InterruptedException {
         switch(drink){
             case "Water":
-                drinks.get(0).click();
+                BaseClass.waitForElement(drinks.get(0), 20);
+                BaseClass.searchForElement(drinks.get(0));
                 break;
             case "Milk":
-                drinks.get(1).click();
+                BaseClass.waitForElement(drinks.get(1), 20);
+                BaseClass.searchForElement(drinks.get(1));
                 break;
             case "Coffee":
-                drinks.get(2).click();
+               BaseClass.waitForElement(drinks.get(2), 20);
+                BaseClass.searchForElement(drinks.get(2));
                 break;
             case "Wine":
-                drinks.get(3).click();
+                BaseClass.waitForElement(drinks.get(3), 20);
+                BaseClass.searchForElement(drinks.get(3));
                 break;
             case "Ctrl-Alt-Delight":
-                drinks.get(4).click();
+                BaseClass.waitForElement(drinks.get(4), 20);
+                BaseClass.searchForElement(drinks.get(4));
                 break;
             default:
                 System.out.println("Invalid drink selection");
@@ -92,22 +97,27 @@ public class FormFieldsPage extends BasePage{
 
     }
 
-    public void selectColors(String color) {
+    public void selectColors(String color) throws InterruptedException {
         switch (color) {
             case "Red":
-                colors.get(0).click();
+                BaseClass.waitForElement(colors.get(0), 20);
+                BaseClass.searchForElement(colors.get(0));
                 break;
             case "Blue":
-                colors.get(1).click();
+                BaseClass.waitForElement(colors.get(1), 20);
+                BaseClass.searchForElement(colors.get(1));
                 break;
             case "Yellow":
-                colors.get(2).click();
+                BaseClass.waitForElement(colors.get(2), 20);
+                BaseClass.searchForElement(colors.get(2));
                 break;
             case "Green":
-                colors.get(3).click();
+                BaseClass.waitForElement(colors.get(3), 20);
+                BaseClass.searchForElement(colors.get(3));
                 break;
             case "#FFC0CB":
-                colors.get(4).click();
+                BaseClass.waitForElement(colors.get(4), 20);
+                BaseClass.searchForElement(colors.get(4));
                 break;
             default:
                 System.out.println("Invalid color selection");
@@ -115,17 +125,20 @@ public class FormFieldsPage extends BasePage{
         }
     }
 
-    public void selectAnswer(String answer){
+    public void selectAnswer(String answer) throws InterruptedException {
 
         Select select = new Select(this.automation);
         switch (answer){
             case "Yes":
+                BaseClass.waitForElement(automation, 20);
                 select.selectByVisibleText("Yes");
                 break;
             case "No":
+                BaseClass.waitForElement(automation, 20);
                 select.selectByVisibleText("No");
                 break;
             case "Undecided":
+                BaseClass.waitForElement(automation, 20);
                 select.selectByVisibleText("Undecided");
                 break;
             default:
