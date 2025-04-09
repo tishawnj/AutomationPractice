@@ -2,6 +2,7 @@ package pages;
 
 import businessLogic.BaseClass;
 
+import org.jsoup.Connection;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -55,14 +56,16 @@ public class ModalPage extends BasePage {
 
 
 
-   public void clickModal(String element){
+   public void clickModal(String element) throws InterruptedException {
        switch (element)
            {
                case "Simple Modal":
-                   simpleModal.click();
+                   BaseClass.waitForElement(simpleModal, 20);
+                   BaseClass.searchForElement(simpleModal);
                    break;
                case "Form Modal":
-                   formModal.click();
+                    BaseClass.waitForElement(formModal, 20);
+                    BaseClass.searchForElement(formModal);
                    break;
                default:
                    System.out.println("Invalid modal option");
