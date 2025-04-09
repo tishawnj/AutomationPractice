@@ -45,20 +45,20 @@ public class FormFieldPageSteps {
         BaseClass.getLogger().info("Click submit button");
     }
     @When("I select drink as {string}")
-    public void i_select_drink_as(String drink) {
+    public void i_select_drink_as(String drink) throws InterruptedException {
         formFieldPage.selectDrinks(drink);
         BaseClass.getLogger().info("Select drink as {string}");
     }
 
 
     @When("I select color as {string}")
-    public void i_select_color_as(String color) {
+    public void i_select_color_as(String color) throws InterruptedException {
         formFieldPage.selectColors(color);
         BaseClass.getLogger().info("Select color as {string}");
     }
 
     @When("I select answer as {string}")
-    public void i_select_answer_as(String answer) {
+    public void i_select_answer_as(String answer) throws InterruptedException {
         formFieldPage.selectAnswer(answer);
         BaseClass.getLogger().info("Select answer as {string}");
     }
