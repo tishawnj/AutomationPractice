@@ -1,0 +1,686 @@
+10:14:10.057 [main] INFO  - Closing the Web Browser
+10:14:10.238 [main] INFO  - Opening the Web Browser.....
+10:14:10.239 [main] INFO  - Loading properties!
+10:14:12.043 [main] INFO  - Attempting to search for button
+10:14:12.486 [main] INFO  - Button found and clicked
+10:14:12.486 [main] INFO  - Clicking on HomePage link
+10:14:12.642 [main] INFO  - Entering first name email and message
+10:14:14.841 [main] INFO  - Form modal submitted
+10:14:14.842 [main] INFO  - Closing the Web Browser
+10:14:15.037 [main] INFO  - Opening the Web Browser.....
+10:14:15.038 [main] INFO  - Loading properties!
+10:14:16.833 [main] INFO  - Attempting to search for button
+10:14:17.255 [main] INFO  - Button found and clicked
+10:14:17.255 [main] INFO  - Clicking on HomePage link
+10:14:17.321 [main] INFO  - Entering first name email and message
+10:14:19.560 [main] INFO  - Form modal submitted
+10:14:19.561 [main] INFO  - Closing the Web Browser
+10:14:37.617 [main] INFO  - Opening the Web Browser.....
+10:14:37.620 [main] INFO  - Loading properties!
+10:14:39.792 [main] INFO  - Attempting to search for button
+10:14:40.246 [main] INFO  - Button found and clicked
+10:14:40.246 [main] INFO  - Clicking on HomePage link
+10:14:40.890 [main] INFO  - Element found
+10:14:40.926 [main] INFO  - True
+10:14:40.973 [main] INFO  - Simple Modal closed
+10:14:40.974 [main] INFO  - Closing the Web Browser
+10:14:41.182 [main] INFO  - Opening the Web Browser.....
+10:14:41.183 [main] INFO  - Loading properties!
+10:14:42.928 [main] INFO  - Attempting to search for button
+10:14:43.362 [main] INFO  - Button found and clicked
+10:14:43.363 [main] INFO  - Clicking on HomePage link
+10:14:43.434 [main] INFO  - Entering first name email and message
+10:14:45.653 [main] INFO  - Form modal submitted
+10:14:45.654 [main] INFO  - Closing the Web Browser
+10:14:45.829 [main] INFO  - Opening the Web Browser.....
+10:14:45.829 [main] INFO  - Loading properties!
+10:14:47.629 [main] INFO  - Attempting to search for button
+10:14:48.070 [main] INFO  - Button found and clicked
+10:14:48.070 [main] INFO  - Clicking on HomePage link
+10:14:48.231 [main] INFO  - Entering first name email and message
+10:14:50.324 [main] INFO  - Form modal submitted
+10:14:50.325 [main] INFO  - Closing the Web Browser
+10:14:50.483 [main] INFO  - Opening the Web Browser.....
+10:14:50.484 [main] INFO  - Loading properties!
+10:14:52.244 [main] INFO  - Attempting to search for button
+10:14:52.665 [main] INFO  - Button found and clicked
+10:14:52.666 [main] INFO  - Clicking on HomePage link
+10:14:52.736 [main] INFO  - Entering first name email and message
+10:14:54.876 [main] INFO  - Form modal submitted
+10:14:54.877 [main] INFO  - Closing the Web Browser
+10:21:28.001 [main] INFO  - Opening the Web Browser.....
+10:21:28.005 [main] INFO  - Loading properties!
+10:21:31.279 [main] INFO  - Clicking on HomePage link
+10:21:31.428 [main] INFO  - Enter name as {string}
+10:21:31.569 [main] INFO  - Enter password as {string}
+10:21:31.675 [main] INFO  - Enter email as {string}
+10:21:31.800 [main] INFO  - Select drink as {string}
+10:21:31.987 [main] INFO  - Select answer as {string}
+10:21:32.111 [main] INFO  - Enter message as {string}
+10:21:33.263 [main] INFO  - Taking screenshot for failed scenario
+10:21:33.375 [main] INFO  - Closing the Web Browser
+10:26:19.753 [main] INFO  - Opening the Web Browser.....
+10:26:19.758 [main] INFO  - Loading properties!
+10:26:23.390 [main] INFO  - Clicking on HomePage link
+10:26:23.639 [main] INFO  - Enter name as {string}
+10:26:23.852 [main] INFO  - Enter password as {string}
+10:26:24.010 [main] INFO  - Enter email as {string}
+10:26:24.167 [main] INFO  - Select drink as {string}
+10:26:24.299 [main] INFO  - Select color as {string}
+10:26:24.512 [main] INFO  - Select answer as {string}
+10:26:24.652 [main] INFO  - Enter message as {string}
+10:26:25.775 [main] INFO  - Taking screenshot for failed scenario
+10:26:25.887 [main] INFO  - Closing the Web Browser
+10:26:40.963 [main] INFO  - Opening the Web Browser.....
+10:26:40.968 [main] INFO  - Loading properties!
+10:26:44.405 [main] INFO  - Clicking on HomePage link
+10:26:44.651 [main] INFO  - Enter name as {string}
+10:26:44.738 [main] INFO  - Enter password as {string}
+10:26:44.847 [main] INFO  - Enter email as {string}
+10:26:44.982 [main] INFO  - Select drink as {string}
+10:26:45.089 [main] INFO  - Select color as {string}
+10:26:45.272 [main] INFO  - Select answer as {string}
+10:26:45.386 [main] INFO  - Enter message as {string}
+10:26:46.530 [main] INFO  - Taking screenshot for failed scenario
+10:26:46.661 [main] INFO  - Closing the Web Browser
+10:28:26.132 [main] INFO  - Opening the Web Browser.....
+10:28:26.139 [main] INFO  - Loading properties!
+10:28:29.676 [main] INFO  - Clicking on HomePage link
+10:28:29.948 [main] INFO  - Enter name as {string}
+10:28:30.043 [main] INFO  - Enter password as {string}
+10:28:30.154 [main] INFO  - Enter email as {string}
+10:28:30.292 [main] INFO  - Select drink as {string}
+10:28:30.398 [main] INFO  - Select color as {string}
+10:28:30.592 [main] INFO  - Select answer as {string}
+10:28:30.735 [main] INFO  - Enter message as {string}
+10:28:31.001 [main] INFO  - Click submit button
+10:28:31.002 [main] INFO  - Closing the Web Browser
+19:30:13.777 [main] INFO  - Opening the Web Browser.....
+19:30:13.784 [main] INFO  - Loading properties!
+19:30:18.197 [main] INFO  - Attempting to search for button
+19:30:18.756 [main] INFO  - Button found and clicked
+19:30:18.757 [main] INFO  - Clicking on HomePage link
+19:30:19.542 [main] INFO  - Element found
+19:30:19.589 [main] INFO  - True
+19:30:19.655 [main] INFO  - Simple Modal closed
+19:30:19.657 [main] INFO  - Closing the Web Browser
+19:30:19.933 [main] INFO  - Opening the Web Browser.....
+19:30:19.934 [main] INFO  - Loading properties!
+19:30:22.668 [main] INFO  - Attempting to search for button
+19:30:23.266 [main] INFO  - Button found and clicked
+19:30:23.267 [main] INFO  - Clicking on HomePage link
+19:30:23.447 [main] INFO  - Entering first name email and message
+19:30:25.957 [main] INFO  - Form modal submitted
+19:30:25.958 [main] INFO  - Closing the Web Browser
+19:30:26.141 [main] INFO  - Opening the Web Browser.....
+19:30:26.142 [main] INFO  - Loading properties!
+19:30:28.887 [main] INFO  - Attempting to search for button
+19:30:29.467 [main] INFO  - Button found and clicked
+19:30:29.467 [main] INFO  - Clicking on HomePage link
+19:30:29.592 [main] INFO  - Entering first name email and message
+19:30:32.402 [main] INFO  - Form modal submitted
+19:30:32.403 [main] INFO  - Closing the Web Browser
+19:30:32.648 [main] INFO  - Opening the Web Browser.....
+19:30:32.649 [main] INFO  - Loading properties!
+19:30:35.528 [main] INFO  - Attempting to search for button
+19:30:36.063 [main] INFO  - Button found and clicked
+19:30:36.063 [main] INFO  - Clicking on HomePage link
+19:30:36.312 [main] INFO  - Entering first name email and message
+19:30:38.677 [main] INFO  - Form modal submitted
+19:30:38.678 [main] INFO  - Closing the Web Browser
+19:30:38.860 [main] INFO  - Opening the Web Browser.....
+19:30:38.860 [main] INFO  - Loading properties!
+19:30:41.634 [main] INFO  - Clicking on HomePage link
+19:30:41.772 [main] INFO  - Enter name as {string}
+19:30:41.887 [main] INFO  - Enter password as {string}
+19:30:41.986 [main] INFO  - Enter email as {string}
+19:30:42.104 [main] INFO  - Select drink as {string}
+19:30:42.202 [main] INFO  - Select color as {string}
+19:30:42.383 [main] INFO  - Select answer as {string}
+19:30:42.511 [main] INFO  - Enter message as {string}
+19:30:42.757 [main] INFO  - Click submit button
+19:30:42.760 [main] INFO  - Closing the Web Browser
+19:30:43.008 [main] INFO  - Opening the Web Browser.....
+19:30:43.008 [main] INFO  - Loading properties!
+19:30:46.176 [main] INFO  - Clicking on HomePage link
+19:30:46.182 [main] INFO  - I click on {string} popup!
+19:30:46.214 [main] INFO  - Element found
+19:30:46.314 [main] INFO  - I verify text {string} on alert!
+19:30:46.324 [main] INFO  - True
+19:30:46.324 [main] INFO  - Text is equal
+19:30:46.326 [main] INFO  - I click ok on alert!
+19:30:46.335 [main] INFO  - Closing the Web Browser
+19:30:46.548 [main] INFO  - Opening the Web Browser.....
+19:30:46.549 [main] INFO  - Loading properties!
+19:30:49.580 [main] INFO  - Clicking on HomePage link
+19:30:49.582 [main] INFO  - I click on {string} popup!
+19:30:49.613 [main] INFO  - Element found
+19:30:49.710 [main] INFO  - I click cancel on alert!
+19:30:49.719 [main] INFO  - Alert dismissed!
+19:30:49.721 [main] INFO  - I verify text {string} on confirm!
+19:30:49.862 [main] INFO  - Cancel it is!
+19:30:49.863 [main] INFO  - Confirm popup text verification passed!
+19:30:49.864 [main] INFO  - Closing the Web Browser
+19:30:50.093 [main] INFO  - Opening the Web Browser.....
+19:30:50.093 [main] INFO  - Loading properties!
+19:30:53.152 [main] INFO  - Clicking on HomePage link
+19:30:53.154 [main] INFO  - I click on {string} popup!
+19:30:53.186 [main] INFO  - Element found
+19:30:53.304 [main] INFO  - I click ok on alert!
+19:30:53.319 [main] INFO  - I verify text {string} on confirm!
+19:30:53.427 [main] INFO  - OK it is!
+19:30:53.427 [main] INFO  - Confirm popup text verification passed!
+19:30:53.429 [main] INFO  - Closing the Web Browser
+19:30:53.678 [main] INFO  - Opening the Web Browser.....
+19:30:53.679 [main] INFO  - Loading properties!
+19:30:56.812 [main] INFO  - Clicking on HomePage link
+19:30:56.814 [main] INFO  - I click on {string} popup!
+19:30:56.844 [main] INFO  - Element found
+19:30:56.949 [main] INFO  - I verify {string} on prompt!
+19:30:56.950 [main] INFO  - Verifying Cancel button
+19:30:56.957 [main] INFO  - Prompt popup dismissed
+19:30:57.094 [main] INFO  - Fine, be that way...
+19:30:57.116 [main] INFO  - Prompt popuptext verification passed!
+19:30:57.135 [main] INFO  - Fine, be that way...
+19:30:57.163 [main] INFO  - Prompt popuptext verification passed!
+19:30:57.163 [main] INFO  - Cancel button verification passed!
+19:30:57.165 [main] INFO  - Closing the Web Browser
+19:30:57.406 [main] INFO  - Opening the Web Browser.....
+19:30:57.407 [main] INFO  - Loading properties!
+19:31:00.371 [main] INFO  - Clicking on HomePage link
+19:31:00.373 [main] INFO  - I click on {string} popup!
+19:31:00.407 [main] INFO  - Element found
+19:31:00.516 [main] INFO  - I enter {string} in alert prompt!
+19:31:00.516 [main] INFO  - Verifying prompt popup
+19:31:00.523 [main] INFO  - Text entered: Josh
+19:31:00.526 [main] INFO  - I verify {string} on prompt!
+19:31:00.526 [main] INFO  - Verifying Ok button
+19:31:00.540 [main] INFO  - Prompt popup accepted
+19:31:00.607 [main] INFO  - Nice to meet you, Josh!
+19:31:00.630 [main] INFO  - Prompt popuptext verification passed!
+19:31:00.630 [main] INFO  - Ok button verification passed!
+19:31:00.632 [main] INFO  - Closing the Web Browser
+19:31:00.893 [main] INFO  - Opening the Web Browser.....
+19:31:00.894 [main] INFO  - Loading properties!
+19:31:03.841 [main] INFO  - Clicking on HomePage link
+19:31:03.843 [main] INFO  - I click on {string} popup!
+19:31:03.878 [main] INFO  - Element found
+19:31:03.993 [main] INFO  - I verify {string} on prompt!
+19:31:03.993 [main] INFO  - Verifying Ok button
+19:31:04.003 [main] INFO  - Prompt popup accepted
+19:31:04.161 [main] INFO  - Fine, be that way...
+19:31:04.184 [main] INFO  - Prompt popuptext verification passed!
+19:31:04.184 [main] INFO  - Ok button verification passed!
+19:31:04.185 [main] INFO  - Closing the Web Browser
+13:40:06.074 [main] INFO  - Opening the Web Browser.....
+13:40:06.077 [main] INFO  - Loading properties!
+13:40:10.660 [main] INFO  - Attempting to search for button
+13:40:11.770 [main] INFO  - Button found and clicked
+13:40:11.771 [main] INFO  - Clicking on HomePage link
+13:40:12.499 [main] INFO  - Element found
+13:40:12.542 [main] INFO  - True
+13:40:12.598 [main] INFO  - Simple Modal closed
+13:40:12.599 [main] INFO  - Closing the Web Browser
+13:40:12.888 [main] INFO  - Opening the Web Browser.....
+13:40:12.889 [main] INFO  - Loading properties!
+13:40:15.531 [main] INFO  - Attempting to search for button
+13:40:16.627 [main] INFO  - Button found and clicked
+13:40:16.627 [main] INFO  - Clicking on HomePage link
+13:40:16.783 [main] INFO  - Entering first name email and message
+13:40:19.380 [main] INFO  - Form modal submitted
+13:40:19.381 [main] INFO  - Closing the Web Browser
+13:40:19.582 [main] INFO  - Opening the Web Browser.....
+13:40:19.583 [main] INFO  - Loading properties!
+13:40:21.766 [main] INFO  - Attempting to search for button
+13:40:22.901 [main] INFO  - Button found and clicked
+13:40:22.901 [main] INFO  - Clicking on HomePage link
+13:40:23.047 [main] INFO  - Entering first name email and message
+13:40:25.294 [main] INFO  - Form modal submitted
+13:40:25.295 [main] INFO  - Closing the Web Browser
+13:40:25.488 [main] INFO  - Opening the Web Browser.....
+13:40:25.488 [main] INFO  - Loading properties!
+13:40:27.841 [main] INFO  - Attempting to search for button
+13:40:28.943 [main] INFO  - Button found and clicked
+13:40:28.944 [main] INFO  - Clicking on HomePage link
+13:40:29.097 [main] INFO  - Entering first name email and message
+13:40:31.508 [main] INFO  - Form modal submitted
+13:40:31.509 [main] INFO  - Closing the Web Browser
+13:40:31.715 [main] INFO  - Opening the Web Browser.....
+13:40:31.716 [main] INFO  - Loading properties!
+13:40:34.496 [main] INFO  - Clicking on HomePage link
+13:40:34.621 [main] INFO  - Enter name as {string}
+13:40:34.730 [main] INFO  - Enter password as {string}
+13:40:34.834 [main] INFO  - Enter email as {string}
+13:40:34.955 [main] INFO  - Select drink as {string}
+13:40:35.029 [main] INFO  - Select color as {string}
+13:40:35.184 [main] INFO  - Select answer as {string}
+13:40:35.287 [main] INFO  - Enter message as {string}
+13:40:35.527 [main] INFO  - Click submit button
+13:40:35.529 [main] INFO  - Closing the Web Browser
+13:40:35.754 [main] INFO  - Opening the Web Browser.....
+13:40:35.755 [main] INFO  - Loading properties!
+13:40:39.080 [main] INFO  - Clicking on HomePage link
+13:40:39.085 [main] INFO  - I click on {string} popup!
+13:40:39.116 [main] INFO  - Element found
+13:40:39.232 [main] INFO  - I verify text {string} on alert!
+13:40:39.246 [main] INFO  - True
+13:40:39.246 [main] INFO  - Text is equal
+13:40:39.248 [main] INFO  - I click ok on alert!
+13:40:39.258 [main] INFO  - Closing the Web Browser
+13:40:39.468 [main] INFO  - Opening the Web Browser.....
+13:40:39.468 [main] INFO  - Loading properties!
+13:40:43.233 [main] INFO  - Clicking on HomePage link
+13:40:43.236 [main] INFO  - I click on {string} popup!
+13:40:43.270 [main] INFO  - Element found
+13:40:43.473 [main] INFO  - I click cancel on alert!
+13:40:43.483 [main] INFO  - Alert dismissed!
+13:40:43.485 [main] INFO  - I verify text {string} on confirm!
+13:40:43.528 [main] INFO  - Cancel it is!
+13:40:43.529 [main] INFO  - Confirm popup text verification passed!
+13:40:43.530 [main] INFO  - Closing the Web Browser
+13:40:43.778 [main] INFO  - Opening the Web Browser.....
+13:40:43.779 [main] INFO  - Loading properties!
+13:40:47.329 [main] INFO  - Clicking on HomePage link
+13:40:47.331 [main] INFO  - I click on {string} popup!
+13:40:47.365 [main] INFO  - Element found
+13:40:47.506 [main] INFO  - I click ok on alert!
+13:40:47.516 [main] INFO  - I verify text {string} on confirm!
+13:40:47.562 [main] INFO  - OK it is!
+13:40:47.563 [main] INFO  - Confirm popup text verification passed!
+13:40:47.564 [main] INFO  - Closing the Web Browser
+13:40:47.802 [main] INFO  - Opening the Web Browser.....
+13:40:47.803 [main] INFO  - Loading properties!
+13:40:51.600 [main] INFO  - Clicking on HomePage link
+13:40:51.601 [main] INFO  - I click on {string} popup!
+13:40:51.639 [main] INFO  - Element found
+13:40:51.776 [main] INFO  - I verify {string} on prompt!
+13:40:51.777 [main] INFO  - Verifying Cancel button
+13:40:51.785 [main] INFO  - Prompt popup dismissed
+13:40:51.828 [main] INFO  - Fine, be that way...
+13:40:51.852 [main] INFO  - Prompt popuptext verification passed!
+13:40:51.882 [main] INFO  - Fine, be that way...
+13:40:51.906 [main] INFO  - Prompt popuptext verification passed!
+13:40:51.907 [main] INFO  - Cancel button verification passed!
+13:40:51.908 [main] INFO  - Closing the Web Browser
+13:40:52.133 [main] INFO  - Opening the Web Browser.....
+13:40:52.134 [main] INFO  - Loading properties!
+13:40:56.149 [main] INFO  - Clicking on HomePage link
+13:40:56.150 [main] INFO  - I click on {string} popup!
+13:40:56.198 [main] INFO  - Element found
+13:40:56.389 [main] INFO  - I enter {string} in alert prompt!
+13:40:56.390 [main] INFO  - Verifying prompt popup
+13:40:56.404 [main] INFO  - Text entered: Josh
+13:40:56.405 [main] INFO  - I verify {string} on prompt!
+13:40:56.406 [main] INFO  - Verifying Ok button
+13:40:56.419 [main] INFO  - Prompt popup accepted
+13:40:56.461 [main] INFO  - Nice to meet you, Josh!
+13:40:56.487 [main] INFO  - Prompt popuptext verification passed!
+13:40:56.487 [main] INFO  - Ok button verification passed!
+13:40:56.489 [main] INFO  - Closing the Web Browser
+13:40:56.736 [main] INFO  - Opening the Web Browser.....
+13:40:56.738 [main] INFO  - Loading properties!
+13:41:00.744 [main] INFO  - Clicking on HomePage link
+13:41:00.745 [main] INFO  - I click on {string} popup!
+13:41:00.783 [main] INFO  - Element found
+13:41:00.925 [main] INFO  - I verify {string} on prompt!
+13:41:00.925 [main] INFO  - Verifying Ok button
+13:41:00.934 [main] INFO  - Prompt popup accepted
+13:41:00.976 [main] INFO  - Fine, be that way...
+13:41:01.004 [main] INFO  - Prompt popuptext verification passed!
+13:41:01.004 [main] INFO  - Ok button verification passed!
+13:41:01.007 [main] INFO  - Closing the Web Browser
+14:02:24.491 [main] INFO  - Opening the Web Browser.....
+14:02:24.500 [main] INFO  - Loading properties!
+14:08:29.240 [main] INFO  - Opening the Web Browser.....
+14:08:29.245 [main] INFO  - Loading properties!
+14:08:32.203 [main] INFO  - Attempting to search for button
+14:08:33.233 [main] INFO  - Button found and clicked
+14:08:33.233 [main] INFO  - Clicking on HomePage link
+14:08:33.885 [main] INFO  - Element found
+14:08:33.927 [main] INFO  - True
+14:08:33.971 [main] INFO  - Simple Modal closed
+14:08:33.973 [main] INFO  - Closing the Web Browser
+14:08:34.182 [main] INFO  - Opening the Web Browser.....
+14:08:34.182 [main] INFO  - Loading properties!
+14:08:36.316 [main] INFO  - Attempting to search for button
+14:08:37.445 [main] INFO  - Button found and clicked
+14:08:37.445 [main] INFO  - Clicking on HomePage link
+14:08:37.568 [main] INFO  - Entering first name email and message
+14:08:39.711 [main] INFO  - Form modal submitted
+14:08:39.712 [main] INFO  - Closing the Web Browser
+14:08:39.885 [main] INFO  - Opening the Web Browser.....
+14:08:39.886 [main] INFO  - Loading properties!
+14:08:41.841 [main] INFO  - Attempting to search for button
+14:08:42.946 [main] INFO  - Button found and clicked
+14:08:42.947 [main] INFO  - Clicking on HomePage link
+14:08:43.059 [main] INFO  - Entering first name email and message
+14:08:45.387 [main] INFO  - Form modal submitted
+14:08:45.389 [main] INFO  - Closing the Web Browser
+14:08:45.564 [main] INFO  - Opening the Web Browser.....
+14:08:45.565 [main] INFO  - Loading properties!
+14:08:47.627 [main] INFO  - Attempting to search for button
+14:08:48.688 [main] INFO  - Button found and clicked
+14:08:48.688 [main] INFO  - Clicking on HomePage link
+14:08:48.836 [main] INFO  - Entering first name email and message
+14:08:50.698 [main] INFO  - Form modal submitted
+14:08:50.699 [main] INFO  - Closing the Web Browser
+14:08:50.915 [main] INFO  - Opening the Web Browser.....
+14:08:50.916 [main] INFO  - Loading properties!
+14:08:53.669 [main] INFO  - Clicking on HomePage link
+14:08:53.782 [main] INFO  - Enter name as {string}
+14:08:53.878 [main] INFO  - Enter password as {string}
+14:08:53.970 [main] INFO  - Enter email as {string}
+14:08:54.072 [main] INFO  - Select drink as {string}
+14:08:54.157 [main] INFO  - Select color as {string}
+14:08:54.322 [main] INFO  - Select answer as {string}
+14:08:54.420 [main] INFO  - Enter message as {string}
+14:08:54.649 [main] INFO  - Click submit button
+14:08:54.651 [main] INFO  - Closing the Web Browser
+14:08:54.875 [main] INFO  - Opening the Web Browser.....
+14:08:54.876 [main] INFO  - Loading properties!
+14:08:58.016 [main] INFO  - Clicking on HomePage link
+14:08:58.021 [main] INFO  - I click on {string} popup!
+14:08:58.054 [main] INFO  - Element found
+14:08:58.162 [main] INFO  - I verify text {string} on alert!
+14:08:58.175 [main] INFO  - True
+14:08:58.175 [main] INFO  - Text is equal
+14:08:58.177 [main] INFO  - I click ok on alert!
+14:08:58.188 [main] INFO  - Closing the Web Browser
+14:08:58.367 [main] INFO  - Opening the Web Browser.....
+14:08:58.367 [main] INFO  - Loading properties!
+14:09:01.680 [main] INFO  - Clicking on HomePage link
+14:09:01.682 [main] INFO  - I click on {string} popup!
+14:09:01.712 [main] INFO  - Element found
+14:09:01.822 [main] INFO  - I click cancel on alert!
+14:09:01.829 [main] INFO  - Alert dismissed!
+14:09:01.832 [main] INFO  - I verify text {string} on confirm!
+14:09:01.864 [main] INFO  - Cancel it is!
+14:09:01.864 [main] INFO  - Confirm popup text verification passed!
+14:09:01.865 [main] INFO  - Closing the Web Browser
+14:09:02.069 [main] INFO  - Opening the Web Browser.....
+14:09:02.069 [main] INFO  - Loading properties!
+14:09:04.982 [main] INFO  - Clicking on HomePage link
+14:09:04.984 [main] INFO  - I click on {string} popup!
+14:09:05.008 [main] INFO  - Element found
+14:09:05.095 [main] INFO  - I click ok on alert!
+14:09:05.104 [main] INFO  - I verify text {string} on confirm!
+14:09:05.141 [main] INFO  - OK it is!
+14:09:05.141 [main] INFO  - Confirm popup text verification passed!
+14:09:05.142 [main] INFO  - Closing the Web Browser
+14:09:05.322 [main] INFO  - Opening the Web Browser.....
+14:09:05.323 [main] INFO  - Loading properties!
+14:09:08.423 [main] INFO  - Clicking on HomePage link
+14:09:08.424 [main] INFO  - I click on {string} popup!
+14:09:08.455 [main] INFO  - Element found
+14:09:08.559 [main] INFO  - I verify {string} on prompt!
+14:09:08.560 [main] INFO  - Verifying Cancel button
+14:09:08.568 [main] INFO  - Prompt popup dismissed
+14:09:08.598 [main] INFO  - Fine, be that way...
+14:09:08.616 [main] INFO  - Prompt popuptext verification passed!
+14:09:08.634 [main] INFO  - Fine, be that way...
+14:09:08.652 [main] INFO  - Prompt popuptext verification passed!
+14:09:08.652 [main] INFO  - Cancel button verification passed!
+14:09:08.653 [main] INFO  - Closing the Web Browser
+14:09:08.840 [main] INFO  - Opening the Web Browser.....
+14:09:08.840 [main] INFO  - Loading properties!
+14:09:11.758 [main] INFO  - Clicking on HomePage link
+14:09:11.759 [main] INFO  - I click on {string} popup!
+14:09:11.786 [main] INFO  - Element found
+14:09:11.893 [main] INFO  - I enter {string} in alert prompt!
+14:09:11.893 [main] INFO  - Verifying prompt popup
+14:09:11.902 [main] INFO  - Text entered: Josh
+14:09:11.903 [main] INFO  - I verify {string} on prompt!
+14:09:11.903 [main] INFO  - Verifying Ok button
+14:09:11.912 [main] INFO  - Prompt popup accepted
+14:09:11.942 [main] INFO  - Nice to meet you, Josh!
+14:09:11.963 [main] INFO  - Prompt popuptext verification passed!
+14:09:11.963 [main] INFO  - Ok button verification passed!
+14:09:11.965 [main] INFO  - Closing the Web Browser
+14:09:12.139 [main] INFO  - Opening the Web Browser.....
+14:09:12.139 [main] INFO  - Loading properties!
+14:09:15.289 [main] INFO  - Clicking on HomePage link
+14:09:15.290 [main] INFO  - I click on {string} popup!
+14:09:15.319 [main] INFO  - Element found
+14:09:15.420 [main] INFO  - I verify {string} on prompt!
+14:09:15.420 [main] INFO  - Verifying Ok button
+14:09:15.428 [main] INFO  - Prompt popup accepted
+14:09:15.466 [main] INFO  - Fine, be that way...
+14:09:15.489 [main] INFO  - Prompt popuptext verification passed!
+14:09:15.489 [main] INFO  - Ok button verification passed!
+14:09:15.491 [main] INFO  - Closing the Web Browser
+14:43:51.158 [main] INFO  - Opening the Web Browser.....
+14:43:51.164 [main] INFO  - Loading properties!
+14:43:55.668 [main] INFO  - Attempting to search for button
+14:43:56.787 [main] INFO  - Button found and clicked
+14:43:56.787 [main] INFO  - Clicking on HomePage link
+14:43:57.530 [main] INFO  - Element found
+14:43:57.572 [main] INFO  - True
+14:43:57.631 [main] INFO  - Simple Modal closed
+14:43:57.632 [main] INFO  - Closing the Web Browser
+14:43:57.849 [main] INFO  - Opening the Web Browser.....
+14:43:57.850 [main] INFO  - Loading properties!
+14:44:00.878 [main] INFO  - Attempting to search for button
+14:44:01.965 [main] INFO  - Button found and clicked
+14:44:01.966 [main] INFO  - Clicking on HomePage link
+14:44:02.124 [main] INFO  - Entering first name email and message
+14:44:04.132 [main] INFO  - Form modal submitted
+14:44:04.134 [main] INFO  - Closing the Web Browser
+14:44:04.305 [main] INFO  - Opening the Web Browser.....
+14:44:04.305 [main] INFO  - Loading properties!
+14:44:06.859 [main] INFO  - Attempting to search for button
+14:44:08.146 [main] INFO  - Button found and clicked
+14:44:08.146 [main] INFO  - Clicking on HomePage link
+14:44:08.289 [main] INFO  - Entering first name email and message
+14:44:10.778 [main] INFO  - Form modal submitted
+14:44:10.779 [main] INFO  - Closing the Web Browser
+14:44:10.965 [main] INFO  - Opening the Web Browser.....
+14:44:10.965 [main] INFO  - Loading properties!
+14:44:13.211 [main] INFO  - Attempting to search for button
+14:44:14.452 [main] INFO  - Button found and clicked
+14:44:14.453 [main] INFO  - Clicking on HomePage link
+14:44:14.602 [main] INFO  - Entering first name email and message
+14:44:16.581 [main] INFO  - Form modal submitted
+14:44:16.582 [main] INFO  - Closing the Web Browser
+14:44:16.803 [main] INFO  - Opening the Web Browser.....
+14:44:16.803 [main] INFO  - Loading properties!
+14:44:19.565 [main] INFO  - Clicking on HomePage link
+14:44:19.679 [main] INFO  - Enter name as {string}
+14:44:19.779 [main] INFO  - Enter password as {string}
+14:44:19.895 [main] INFO  - Enter email as {string}
+14:44:20.008 [main] INFO  - Select drink as {string}
+14:44:20.093 [main] INFO  - Select color as {string}
+14:44:20.281 [main] INFO  - Select answer as {string}
+14:44:20.414 [main] INFO  - Enter message as {string}
+14:44:20.643 [main] INFO  - Click submit button
+14:44:20.644 [main] INFO  - Closing the Web Browser
+14:44:20.905 [main] INFO  - Opening the Web Browser.....
+14:44:20.905 [main] INFO  - Loading properties!
+14:44:24.379 [main] INFO  - Clicking on HomePage link
+14:44:24.385 [main] INFO  - I click on {string} popup!
+14:44:24.418 [main] INFO  - Element found
+14:44:24.524 [main] INFO  - I verify text {string} on alert!
+14:44:24.534 [main] INFO  - True
+14:44:24.535 [main] INFO  - Text is equal
+14:44:24.536 [main] INFO  - I click ok on alert!
+14:44:24.547 [main] INFO  - Closing the Web Browser
+14:44:24.762 [main] INFO  - Opening the Web Browser.....
+14:44:24.762 [main] INFO  - Loading properties!
+14:44:28.252 [main] INFO  - Clicking on HomePage link
+14:44:28.255 [main] INFO  - I click on {string} popup!
+14:44:28.293 [main] INFO  - Element found
+14:44:28.407 [main] INFO  - I click cancel on alert!
+14:44:28.414 [main] INFO  - Alert dismissed!
+14:44:28.416 [main] INFO  - I verify text {string} on confirm!
+14:44:28.455 [main] INFO  - Cancel it is!
+14:44:28.455 [main] INFO  - Confirm popup text verification passed!
+14:44:28.456 [main] INFO  - Closing the Web Browser
+14:44:28.657 [main] INFO  - Opening the Web Browser.....
+14:44:28.658 [main] INFO  - Loading properties!
+14:44:32.214 [main] INFO  - Clicking on HomePage link
+14:44:32.215 [main] INFO  - I click on {string} popup!
+14:44:32.244 [main] INFO  - Element found
+14:44:32.365 [main] INFO  - I click ok on alert!
+14:44:32.372 [main] INFO  - I verify text {string} on confirm!
+14:44:32.404 [main] INFO  - OK it is!
+14:44:32.405 [main] INFO  - Confirm popup text verification passed!
+14:44:32.406 [main] INFO  - Closing the Web Browser
+14:44:32.629 [main] INFO  - Opening the Web Browser.....
+14:44:32.630 [main] INFO  - Loading properties!
+14:44:36.244 [main] INFO  - Clicking on HomePage link
+14:44:36.245 [main] INFO  - I click on {string} popup!
+14:44:36.287 [main] INFO  - Element found
+14:44:36.378 [main] INFO  - I verify {string} on prompt!
+14:44:36.378 [main] INFO  - Verifying Cancel button
+14:44:36.388 [main] INFO  - Prompt popup dismissed
+14:44:36.425 [main] INFO  - Fine, be that way...
+14:44:36.448 [main] INFO  - Prompt popuptext verification passed!
+14:44:36.471 [main] INFO  - Fine, be that way...
+14:44:36.495 [main] INFO  - Prompt popuptext verification passed!
+14:44:36.496 [main] INFO  - Cancel button verification passed!
+14:44:36.497 [main] INFO  - Closing the Web Browser
+14:44:36.728 [main] INFO  - Opening the Web Browser.....
+14:44:36.729 [main] INFO  - Loading properties!
+14:44:40.266 [main] INFO  - Clicking on HomePage link
+14:44:40.269 [main] INFO  - I click on {string} popup!
+14:44:40.306 [main] INFO  - Element found
+14:44:40.446 [main] INFO  - I enter {string} in alert prompt!
+14:44:40.446 [main] INFO  - Verifying prompt popup
+14:44:40.457 [main] INFO  - Text entered: Josh
+14:44:40.459 [main] INFO  - I verify {string} on prompt!
+14:44:40.459 [main] INFO  - Verifying Ok button
+14:44:40.468 [main] INFO  - Prompt popup accepted
+14:44:40.510 [main] INFO  - Nice to meet you, Josh!
+14:44:40.534 [main] INFO  - Prompt popuptext verification passed!
+14:44:40.534 [main] INFO  - Ok button verification passed!
+14:44:40.535 [main] INFO  - Closing the Web Browser
+14:44:40.760 [main] INFO  - Opening the Web Browser.....
+14:44:40.761 [main] INFO  - Loading properties!
+14:44:44.379 [main] INFO  - Clicking on HomePage link
+14:44:44.381 [main] INFO  - I click on {string} popup!
+14:44:44.418 [main] INFO  - Element found
+14:44:44.554 [main] INFO  - I verify {string} on prompt!
+14:44:44.555 [main] INFO  - Verifying Ok button
+14:44:44.564 [main] INFO  - Prompt popup accepted
+14:44:44.605 [main] INFO  - Fine, be that way...
+14:44:44.632 [main] INFO  - Prompt popuptext verification passed!
+14:44:44.633 [main] INFO  - Ok button verification passed!
+14:44:44.634 [main] INFO  - Closing the Web Browser
+20:20:57.516 [main] INFO  - Opening the Web Browser.....
+20:20:57.523 [main] INFO  - Loading properties!
+20:21:49.165 [main] INFO  - Opening the Web Browser.....
+20:21:49.171 [main] INFO  - Loading properties!
+20:21:52.464 [main] INFO  - Attempting to search for button
+20:21:53.641 [main] INFO  - Button found and clicked
+20:21:53.641 [main] INFO  - Clicking on HomePage link
+20:21:54.451 [main] INFO  - Element found
+20:21:54.486 [main] INFO  - True
+20:21:54.537 [main] INFO  - Simple Modal closed
+20:21:54.539 [main] INFO  - Closing the Web Browser
+20:21:54.739 [main] INFO  - Opening the Web Browser.....
+20:21:54.740 [main] INFO  - Loading properties!
+20:21:57.163 [main] INFO  - Attempting to search for button
+20:21:58.262 [main] INFO  - Button found and clicked
+20:21:58.262 [main] INFO  - Clicking on HomePage link
+20:21:58.405 [main] INFO  - Entering first name email and message
+20:22:00.671 [main] INFO  - Form modal submitted
+20:22:00.672 [main] INFO  - Closing the Web Browser
+20:22:00.854 [main] INFO  - Opening the Web Browser.....
+20:22:00.854 [main] INFO  - Loading properties!
+20:22:03.604 [main] INFO  - Attempting to search for button
+20:22:04.744 [main] INFO  - Button found and clicked
+20:22:04.744 [main] INFO  - Clicking on HomePage link
+20:22:04.876 [main] INFO  - Entering first name email and message
+20:22:07.203 [main] INFO  - Form modal submitted
+20:22:07.205 [main] INFO  - Closing the Web Browser
+20:22:07.371 [main] INFO  - Opening the Web Browser.....
+20:22:07.371 [main] INFO  - Loading properties!
+20:22:09.401 [main] INFO  - Attempting to search for button
+20:22:10.675 [main] INFO  - Button found and clicked
+20:22:10.675 [main] INFO  - Clicking on HomePage link
+20:22:10.860 [main] INFO  - Entering first name email and message
+20:22:13.232 [main] INFO  - Form modal submitted
+20:22:13.234 [main] INFO  - Closing the Web Browser
+20:22:13.442 [main] INFO  - Opening the Web Browser.....
+20:22:13.442 [main] INFO  - Loading properties!
+20:22:16.704 [main] INFO  - Clicking on HomePage link
+20:22:16.815 [main] INFO  - Enter name as {string}
+20:22:16.933 [main] INFO  - Enter password as {string}
+20:22:17.042 [main] INFO  - Enter email as {string}
+20:22:17.157 [main] INFO  - Select drink as {string}
+20:22:17.255 [main] INFO  - Select color as {string}
+20:22:17.436 [main] INFO  - Select answer as {string}
+20:22:17.569 [main] INFO  - Enter message as {string}
+20:22:17.791 [main] INFO  - Click submit button
+20:22:17.792 [main] INFO  - Closing the Web Browser
+20:22:18.052 [main] INFO  - Opening the Web Browser.....
+20:22:18.053 [main] INFO  - Loading properties!
+20:22:21.525 [main] INFO  - Clicking on HomePage link
+20:22:21.532 [main] INFO  - I click on {string} popup!
+20:22:21.570 [main] INFO  - Element found
+20:22:21.717 [main] INFO  - I verify text {string} on alert!
+20:22:21.732 [main] INFO  - True
+20:22:21.733 [main] INFO  - Text is equal
+20:22:21.736 [main] INFO  - I click ok on alert!
+20:22:21.750 [main] INFO  - Closing the Web Browser
+20:22:22.020 [main] INFO  - Opening the Web Browser.....
+20:22:22.020 [main] INFO  - Loading properties!
+20:22:25.528 [main] INFO  - Clicking on HomePage link
+20:22:25.529 [main] INFO  - I click on {string} popup!
+20:22:25.561 [main] INFO  - Element found
+20:22:25.652 [main] INFO  - I click cancel on alert!
+20:22:25.660 [main] INFO  - Alert dismissed!
+20:22:25.662 [main] INFO  - I verify text {string} on confirm!
+20:22:25.702 [main] INFO  - Cancel it is!
+20:22:25.702 [main] INFO  - Confirm popup text verification passed!
+20:22:25.703 [main] INFO  - Closing the Web Browser
+20:22:25.924 [main] INFO  - Opening the Web Browser.....
+20:22:25.924 [main] INFO  - Loading properties!
+20:22:29.331 [main] INFO  - Clicking on HomePage link
+20:22:29.333 [main] INFO  - I click on {string} popup!
+20:22:29.361 [main] INFO  - Element found
+20:22:29.443 [main] INFO  - I click ok on alert!
+20:22:29.455 [main] INFO  - I verify text {string} on confirm!
+20:22:29.493 [main] INFO  - OK it is!
+20:22:29.493 [main] INFO  - Confirm popup text verification passed!
+20:22:29.495 [main] INFO  - Closing the Web Browser
+20:22:29.699 [main] INFO  - Opening the Web Browser.....
+20:22:29.700 [main] INFO  - Loading properties!
+20:22:33.205 [main] INFO  - Clicking on HomePage link
+20:22:33.206 [main] INFO  - I click on {string} popup!
+20:22:33.234 [main] INFO  - Element found
+20:22:33.325 [main] INFO  - I verify {string} on prompt!
+20:22:33.325 [main] INFO  - Verifying Cancel button
+20:22:33.334 [main] INFO  - Prompt popup dismissed
+20:22:33.370 [main] INFO  - Fine, be that way...
+20:22:33.391 [main] INFO  - Prompt popuptext verification passed!
+20:22:33.411 [main] INFO  - Fine, be that way...
+20:22:33.431 [main] INFO  - Prompt popuptext verification passed!
+20:22:33.431 [main] INFO  - Cancel button verification passed!
+20:22:33.432 [main] INFO  - Closing the Web Browser
+20:22:33.681 [main] INFO  - Opening the Web Browser.....
+20:22:33.682 [main] INFO  - Loading properties!
+20:22:36.859 [main] INFO  - Clicking on HomePage link
+20:22:36.860 [main] INFO  - I click on {string} popup!
+20:22:36.892 [main] INFO  - Element found
+20:22:37.008 [main] INFO  - I enter {string} in alert prompt!
+20:22:37.008 [main] INFO  - Verifying prompt popup
+20:22:37.018 [main] INFO  - Text entered: Josh
+20:22:37.019 [main] INFO  - I verify {string} on prompt!
+20:22:37.020 [main] INFO  - Verifying Ok button
+20:22:37.027 [main] INFO  - Prompt popup accepted
+20:22:37.065 [main] INFO  - Nice to meet you, Josh!
+20:22:37.086 [main] INFO  - Prompt popuptext verification passed!
+20:22:37.086 [main] INFO  - Ok button verification passed!
+20:22:37.087 [main] INFO  - Closing the Web Browser
+20:22:37.310 [main] INFO  - Opening the Web Browser.....
+20:22:37.311 [main] INFO  - Loading properties!
+20:22:40.556 [main] INFO  - Clicking on HomePage link
+20:22:40.557 [main] INFO  - I click on {string} popup!
+20:22:40.583 [main] INFO  - Element found
+20:22:40.688 [main] INFO  - I verify {string} on prompt!
+20:22:40.688 [main] INFO  - Verifying Ok button
+20:22:40.697 [main] INFO  - Prompt popup accepted
+20:22:40.734 [main] INFO  - Fine, be that way...
+20:22:40.756 [main] INFO  - Prompt popuptext verification passed!
+20:22:40.756 [main] INFO  - Ok button verification passed!
+20:22:40.757 [main] INFO  - Closing the Web Browser

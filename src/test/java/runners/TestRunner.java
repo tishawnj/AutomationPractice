@@ -4,11 +4,10 @@ package runners;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
-import org.testng.annotations.Test;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "features",
+        features = "Features/",
         glue = {"steps"},
         plugin= {"pretty", "html:reports/myreport.html",
                 "rerun:target/rerun.txt",
@@ -16,7 +15,7 @@ import org.testng.annotations.Test;
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
         },
 
-        dryRun=false,    // checks mapping between scenario steps and step definition methods
+        //dryRun=false,    // checks mapping between scenario steps and step definition methods
         monochrome=true,    // to avoid junk characters in output
         publish=true)  // to publish report in cucumber server
 //tags="@sanity"  // this will execute scenarios tagged with @sanity
