@@ -24,7 +24,7 @@ public class ModalPageSteps {
     @When("I click on a modal {string} link")
     public void i_click_on_a_modal_link(String modalLinkText) throws InterruptedException {
 
-        modalPage.clickModal(modalLinkText);;
+        modalPage.clickModal(modalLinkText);
     }
 
     //close the modal
