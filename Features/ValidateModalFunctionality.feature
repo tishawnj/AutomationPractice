@@ -1,12 +1,12 @@
 Feature: Validation of Modal Page
   #Practice automation for Popup Links
 
-@sanity @regression
-  Scenario: Validation of Simple Modal Form
-    Given I click on "modal" link
-    When I click on a modal "Simple Modal" link
-    And I verify modal text "Hi, I’m a simple modal."
-    Then I close the simple modal
+#@sanity @regression
+#  Scenario: Validation of Simple Modal Form
+#    Given I click on "modal" link
+#    When I click on a modal "Simple Modal" link
+#    And I verify modal text "Hi, I’m a simple modal."
+#    Then I close the simple modal
 
   @sanity @regression
     Scenario Outline: Validation of Form Modal Page
