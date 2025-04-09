@@ -19,28 +19,28 @@ public class ModalPage extends BasePage {
     }
 
     @FindBy(id = "simpleModal")
-    private WebElement simpleModal;
+    protected WebElement simpleModal;
 
 
 
     @FindBy(id = "formModal")
-    private WebElement formModal;
+    protected WebElement formModal;
 
 
     @FindBy(xpath = "//*[@id='popmake-1318']/div[2]/p")
-    private WebElement simpleModalText;
+    protected WebElement simpleModalText;
 
 
    @FindBy(xpath = "//*[@id='popmake-1318']/button")
-    private WebElement closeModalButton;
+    protected WebElement closeModalButton;
 
 
    @FindBy(xpath = "//*[@id='popmake-674']/button")
-    private WebElement formModalCloseButton;
+    protected WebElement formModalCloseButton;
 
 
     @FindBy(xpath = "//*[@id='contact-form-1051']/form/p[1]/button")
-    private WebElement formModalSubmitButton;
+    protected WebElement formModalSubmitButton;
 
 
     @FindBy(id = "g1051-name")
@@ -60,11 +60,11 @@ public class ModalPage extends BasePage {
        switch (element)
            {
                case "Simple Modal":
-                   BaseClass.waitForElement(simpleModal, 20);
+                   BaseClass.waitForElement(simpleModal, 30);
                    BaseClass.searchForElement(simpleModal);
                    break;
                case "Form Modal":
-                    BaseClass.waitForElement(formModal, 20);
+                    BaseClass.waitForElement(formModal, 30);
                     BaseClass.searchForElement(formModal);
                    break;
                default:
